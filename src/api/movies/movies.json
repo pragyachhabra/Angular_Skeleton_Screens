@@ -1,0 +1,51 @@
+[
+  {
+    "MovieId" : 1,
+    "MovieTitle" : "Episode II: Attack of the Clones",
+    "MovieCode" : "GND-98",
+    "MoviePrice" : 142,
+    "MovieAvailable" : "DVD",
+    "StarRating" : 3,
+    "Description":"Star Wars was released on May 25, 1977, followed by The Empire Strikes Back on May 21, 1980, and Return of the Jedi on May 25, 1983. The plot of the original ...",
+    "ImageUrl":"assets/images/starwar.jpg"
+  },
+ { "MovieId" : 2,
+  "MovieTitle" : "Episode II: Attack of the Clones",
+  "MovieCode" : "GND-98",
+  "MoviePrice" : 142,
+  "MovieAvailable" : "DVD",
+  "StarRating" : 4.2,
+  "Description":"Star Wars was released on May 25, 1977, followed by The Empire Strikes Back on May 21, 1980, and Return of the Jedi on May 25, 1983. The plot of the original ...",
+  "ImageUrl":"assets/images/starwar.jpg"
+},
+{
+  "MovieId" : 3,
+  "MovieTitle" : "Episode III: Revenge of the Sith",
+  "MovieCode" : "PWA-90",
+  "MoviePrice" : 140,
+  "MovieAvailable": "DVD",
+  "StarRating" : 4,
+  "Description":"Star Wars was released on May 25, 1977, followed by The Empire Strikes Back on May 21, 1980, and Return of the Jedi on May 25, 1983. The plot of the original ...",
+  "ImageUrl":"assets/images/starwar.jpg"
+},
+  {
+    "MovieId" : 4,
+    "MovieTitle" : "Episode II: Attack of the Clones",
+    "MovieCode" : "GND-98",
+    "MoviePrice" : 142,
+    "MovieAvailable" : "DVD",
+    "StarRating" : 3.2,
+    "Description":"Star Wars was released on May 25, 1977, followed by The Empire Strikes Back on May 21, 1980, and Return of the Jedi on May 25, 1983. The plot of the original ...",
+    "ImageUrl":"assets/images/starwar.jpg"
+  },
+  {
+    "MovieId" : 5,
+    "MovieTitle" : "Episode II: Attack of the Clones",
+    "MovieCode" : "GND-98",
+    "MoviePrice" : 142,
+    "MovieAvailable" : "DVD",
+    "StarRating" : 5,
+    "Description":"Star Wars was released on May 25, 1977, followed by The Empire Strikes Back on May 21, 1980, and Return of the Jedi on May 25, 1983. The plot of the original ...",
+    "ImageUrl":"assets/images/starwar.jpg"
+  }
+]

@@ -1,0 +1,22 @@
+
+<div class='card'
+*ngIf='movie'>
+<div class='card-header'>
+    <button class='btn btn-outline-secondary'
+    (click)='onBack()'
+    style='width:80px'>
+<i class='fa fa-chevron-left'></i> Back
+</button>
+
+</div>
+<div class='card-footer'>
+     {{Pagetitle + ': ' + movie.MovieTitle}}
+    <br/>
+    <img *ngIf='showImage'
+    [src]='movie.ImageUrl'
+    [title]='movie.MovieTitle'
+    [style.width.px]='imageWidth'
+    [style.margin.px]='imageMargin'/>
+    <br/>
+    {{movie.Description}}
+  </div>
